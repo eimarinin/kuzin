@@ -1,7 +1,0 @@
-{
-	"files.associations": {
-		"*.tpl": "html",
-		"*.tmpl": "html",
-		"iostream": "cpp"
-	}
-}

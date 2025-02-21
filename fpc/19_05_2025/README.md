@@ -16,7 +16,7 @@
 
 ### Компиляция с GCC/Clang:
 ```
-g++ -fopenmp -o matrix_mult main.cpp
+g++ -fopenmp -o main main.cpp
 ```
 
 ### Запуск:

@@ -51,3 +51,5 @@ mpiexec -n 4 main.exe
 Reference computation took 0.127253 seconds
 Parallel computation completed in 0.0732577 seconds
 ```
+
+![alt text](image.png)
